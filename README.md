@@ -1,26 +1,150 @@
-💫 About Me:
-👩‍💻 Web Developer building modern, responsive & user-focused web experiences.<br><br>💻 Skilled in HTML, CSS & JavaScript<br>🎨 Focused on clean UI, responsive design & interactive experiences<br>🤖 Exploring AI-powered development & modern web technologies<br>🚀 Turning ideas into polished, functional digital experiences<br>
+<!-- Profile Header -->
 
+<h1 align="center">Hi 👋, I'm Noor</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Noor Codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_with_noor164) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Noor Codes) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@code_with_noor164) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ @CodeWithNoor164) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithnoor7@gmail.com) 
+<h3 align="center">
+  👩‍💻 Web Developer | Frontend Developer | Creative Problem Solver
+</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Noor Fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Noor Fatima&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Noor Fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="./github-gif.png" alt="Noor - Web Developer" width="400">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Noor Fatima&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  I build modern, responsive and user-focused web experiences
+  with clean code, intuitive UI and creative solutions.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Noor Fatima&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/codewithnoor7-w">
+    <img src="https://komarev.com/ghpvc/?username=codewithnoor7-w&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Noor Fatima&icon=8&color=1)](https://visitcount.itsvg.in)
 
+## 👩‍💻 About Me
+
+- 🌱 Currently improving my skills in **Modern Web Development**
+- 💻 Experienced with **HTML, CSS, JavaScript & React**
+- 🎨 Passionate about **clean UI, responsive design and interactive experiences**
+- ⚡ I enjoy turning creative ideas into **functional digital experiences**
+- 🚀 Always learning and exploring **modern web technologies**
+- 💬 Ask me about **Web Development, Frontend & UI Design**
+- 📫 Email: **codewithnoor7@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+</a>
+
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://getbootstrap.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+</a>
+
+<a href="https://firebase.google.com/">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://facebook.com/noor.codes" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45"/>
+</a>
+
+<a href="https://instagram.com/code_with_noor164" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"/>
+</a>
+
+<a href="https://www.youtube.com/@codewithnoor164" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithnoor7-w&show_icons=true&locale=en" alt="Noor's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithnoor7-w&show_icons=true&locale=en&layout=compact" alt="Noor's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithnoor7-w" alt="Noor's GitHub Streak"/>
+</p>
+
+---
+
+## ✨ My Philosophy
+
+<p align="center">
+  <b>Code • Create • Build • Learn • Grow 🚀</b>
+</p>
+
+<p align="center">
+  <i>Turning ideas into polished, functional and meaningful digital experiences.</i>
+</p>
